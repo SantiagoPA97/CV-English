@@ -45,6 +45,19 @@ p{
     color: #000000;
 }
 
+
+#referencias-titulo {
+    display: flex;
+    justify-content: center;
+}
+
+#contenedor-referencias {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
 .contenedor, .contenedor li{
     background-color: #393d42;;
     color: white;
